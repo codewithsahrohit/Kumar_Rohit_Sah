@@ -1,5 +1,5 @@
 <!--
-**# Kumar_Rohit_Sah/# Kumar_Rohit_Sah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**# Kumar_Rohit_Sah/# Kumar_Rohit_Sah** is a ✨ _special_ ✨ repository because its `README.rr` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
